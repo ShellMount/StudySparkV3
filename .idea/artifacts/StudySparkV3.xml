@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StudySparkV3">
+    <output-path>$PROJECT_DIR$/../../OutPutApp</output-path>
+    <root id="archive" name="StudySparkV3.jar">
+      <element id="module-output" name="StudySparkV3" />
+    </root>
+  </artifact>
+</component>
